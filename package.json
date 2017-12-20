@@ -23,7 +23,7 @@
   "homepage": "https://github.com/jonkemp/extract-css",
   "dependencies": {
     "batch": "^0.6.1",
-    "href-content": "^1.0.0",
+    "href-content": "git+ssh://git@github.com/JonathanKolnik/href-content.git",
     "list-stylesheets": "^1.1.0",
     "style-data": "^1.1.0"
   },

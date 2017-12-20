@@ -1336,9 +1336,9 @@ hosted-git-info@^2.1.4:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
 
-href-content@^1.0.0:
+"href-content@git+ssh://git@github.com/JonathanKolnik/href-content.git":
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/href-content/-/href-content-1.0.2.tgz#8d46228a3d55ce24303ddfb93340d0efb7dddb58"
+  resolved "git+ssh://git@github.com/JonathanKolnik/href-content.git#0b03ac4043085633e8ddae63ab3bd97f0fe66389"
   dependencies:
     remote-content "^1.0.0"
 
